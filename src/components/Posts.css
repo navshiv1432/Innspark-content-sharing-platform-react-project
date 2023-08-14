@@ -1,0 +1,71 @@
+.list-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-shadow: inset;
+    border-color: black;
+    border-style: solid;
+    box-sizing: content-box;
+    border-width: 2px;
+    margin-right: 40px;
+    margin-top: 5px;
+    
+    background-color: antiquewhite;
+    
+    
+}
+.span{
+    font-size: 20px;
+}
+.para1{
+    
+    color: black;
+    margin-top: -1px;
+    font-size: 10px;
+    padding-top: 5px;
+
+}
+.para{
+    
+    color: black;
+    margin-top: -1px;
+    font-size: 10px;
+    padding-top: 10px;
+}
+.icon{
+    font-size: 20px;
+}
+.option{
+    display: flex;
+    flex-direction: column;
+    margin-right:20px ;
+}
+.post-head{
+    font-size: 18px;
+    font-family: "roboto";
+    
+    padding-left: 20px;
+    color: blue;
+
+    
+    
+   
+}
+.options-cont{
+    
+
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
+.post-head-cont{
+    display: flex;
+    flex-direction: row;
+   max-width: 500px;
+    
+    
+   
+    
+}

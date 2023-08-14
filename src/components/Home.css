@@ -1,0 +1,16 @@
+.home-cont{
+    display: flex;
+    flex-direction: column;
+
+    
+    
+   
+}
+.head-content{
+    display: flex;
+    color: brown;
+    font-size: 40px;
+    text-decoration: underline;
+    padding-left: 20px;
+
+}

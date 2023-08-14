@@ -1,0 +1,50 @@
+.PostForm-cont{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    
+}
+.post-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-start;
+    
+    margin-bottom: 10px;
+}
+.search-name{
+    color: red;
+}
+.text-here{
+    font-weight: bold;
+    color: black;
+    width: 80vh;
+    height: 20vh;
+    font-family: bold;
+    font-size: 30px;
+}
+
+.total-posts{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.post-btn{
+    color: red;
+    font-family: bold;
+    font-size: 50px;
+    background-color: aqua;
+}
+.all-post-cont{
+    display: flex;
+    flex-direction: column;
+}
+.list-post{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+.input-search{
+    width: 200px;
+    height: 30px;
+}
